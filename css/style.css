@@ -1,0 +1,11 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* top-nav */
+.t360-logo{
+    width: 148px;
+    height: 47px;
+    object-fit: contain;
+}
+/* top nav end */
